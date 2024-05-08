@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaddysGotMilk
 - 👀 I’m interested in Embedded Systems & Programming obviously.
-- 🌱 I’m currently learning C language.
+- 🌱 I’m currently learning C/C++ language.
 - 💞️ I’m looking to collaborate on anything that improves me in what I am learning.
 - 📫 You can contact me through discord, my name/ID is daddysgotmilk.
 
